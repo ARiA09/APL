@@ -17,3 +17,4 @@ hpjav.tv##[style*="z-index: 999"]
 hpjav.tv##.home-img-box.single-cad
 hpjav.tv###single_ad_nativeads
 hpjav.tv##.video-boxad
+hpjav.tv###poplayer
