@@ -10,7 +10,6 @@ hpjav.tv##.center-ad
 hpjav.tv##.home-ad
 hpjav.tv##.single-vad
 hpjav.tv##a[id^="click"]
-hpjav.tv##div[id^="preroll"]
 hpjav.tv##video[id^="vplayer"]
 youtube.com###player-ads
 hpjav.tv##[style*="z-index: 999"]
