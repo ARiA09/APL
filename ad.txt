@@ -1,3 +1,9 @@
+[Adblock Plus 2.0]
+! Homepage: https://github.com/ARiA09/APL/blob/master/ad.txt
+! Title: APL
+! Expires: 1 days
+! Version: 1.0
+! ========================== Element Hiding Per Site ==========================
 hpjav.tv##.home-featured-ad
 hpjav.tv###ts_ad_native_a16k0
 hpjav.tv##.center-ad
