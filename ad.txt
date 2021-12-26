@@ -18,4 +18,4 @@
 ||hpjav.tv##.video-boxad
 ||hpjav.tv###poplayer
 ||hpjav.tv###preroll_ads
-||img.anime47.com/V2.mp4^
+||img.anime47.com/V2.mp4
